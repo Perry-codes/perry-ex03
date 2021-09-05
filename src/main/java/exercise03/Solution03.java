@@ -11,7 +11,7 @@ Save quote as variable
 
 Prompt user for author
 
-Author variable
+Save inout as Author variable
 
 Concatenate quote and author into string
 
